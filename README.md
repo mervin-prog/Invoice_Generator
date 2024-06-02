@@ -1,12 +1,12 @@
-# Forgot Password
+# Invoice Generator
 
- This module focuses on how forgot password works and plays a vital role in major projects and depending on that implementation is done.
+ This module focuses mainly on inventory items which is then exported as pdf format to make it as portable and this module provides as an add-on to every project.
 
 ## Screenshots
 
- ![ScreenShot](https://raw.github.com/mervin-prog/Forgot_Password/main/Output/1.png)
+ ![ScreenShot](https://raw.github.com/mervin-prog/Invoice_Generator/main/Output/1.png)
 
- ![ScreenShot](https://raw.github.com/mervin-prog/Forgot_Password/main/Output/2.png)
+ ![ScreenShot](https://raw.github.com/mervin-prog/Invoice_Generator/main/Output/2.png)
 
  
 
@@ -17,15 +17,19 @@
  1. Clone the repo 
  
     ``` 
-    git clone https://github.com/mervin-prog/Forgot_Password.git
+    git clone https://github.com/mervin-prog/Invoice_Generator.git
 
     ```
 
 2. Open a terminal or cmd
 
-    use npm to install [nodemon](https://www.npmjs.com/package/nodemon)
+    cd Invoice_Generator
 
-3. Run nodemon index.js.
+    use npm i to install all packages.
+
+3. Run -> npm run dev.
+
+
 
 ## Author
 
