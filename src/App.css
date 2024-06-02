@@ -1,0 +1,60 @@
+
+.App{
+  max-width: 500px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #e1dfdf;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #b4a8a8;
+}
+
+label{
+  display: block;
+  margin-bottom: 5px;
+}
+
+input{
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+button{
+  font-family: Arial !important;
+  font-weight: 900 !important;
+  padding: 8px !important;
+  margin-top: 10px !important; 
+}
+
+button.btn-success:hover{
+  box-shadow: 0 0 10px #28a745 !important;
+}
+
+button.btn-danger:hover{
+  box-shadow: 0 0 10px #DC4C64 !important;
+}
+
+button.btn-primary:hover{
+  box-shadow: 0 0 10px #007bff !important;
+}
+
+p{
+  font-family: Arial !important;
+}
+
+.item-list{
+  margin-top: 20px;
+}
+
+.item{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  align-items: baseline;
+}
+
+.total{
+  margin-top: 20px;
+}

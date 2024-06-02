@@ -1,0 +1,17 @@
+
+@font-face {
+  font-family: 'AbrilFatface-Regular';
+  src: url('assets/fonts/AbrilFatface-Regular.ttf');
+  font-weight: 400;
+}
+
+*{
+  color: #000;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'AbrilFatface-Regular',cursive;
+  background-color: #fff;
+}
