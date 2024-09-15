@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Invoice_Generator',
+  base: '/Invoice_Generator/',
   build: {
     outDir: 'build'
   }
